@@ -370,6 +370,9 @@
             <mxPoint x="31" y="-18" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="0W8Gn3bTdwgSA8BPxb6u-83" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=27;" value="20242501624&lt;div&gt;黄若麟&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="710" y="130" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
