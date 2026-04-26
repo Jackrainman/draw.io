@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="als8vNdwI4_uRO2hBfxr">
-    <mxGraphModel dx="580" dy="345" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="828" dy="491" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -49,7 +49,7 @@
           <mxGeometry height="30" width="60" x="680" y="260" as="geometry" />
         </mxCell>
         <mxCell id="0W8Gn3bTdwgSA8BPxb6u-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="支付系统" vertex="1">
-          <mxGeometry height="30" width="60" x="680" y="460" as="geometry" />
+          <mxGeometry height="30" width="60" x="670" y="520" as="geometry" />
         </mxCell>
         <mxCell id="0W8Gn3bTdwgSA8BPxb6u-21" edge="1" parent="1" source="0W8Gn3bTdwgSA8BPxb6u-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.001;entryY=0.698;entryDx=0;entryDy=0;entryPerimeter=0;" target="0W8Gn3bTdwgSA8BPxb6u-13" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -78,14 +78,32 @@
             <mxPoint x="15" y="-16" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="0W8Gn3bTdwgSA8BPxb6u-40" edge="1" parent="1" source="0W8Gn3bTdwgSA8BPxb6u-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="0W8Gn3bTdwgSA8BPxb6u-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0W8Gn3bTdwgSA8BPxb6u-41" connectable="0" parent="0W8Gn3bTdwgSA8BPxb6u-40" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="订餐请求" vertex="1">
+          <mxGeometry relative="1" x="-0.0826" as="geometry">
+            <mxPoint y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="0W8Gn3bTdwgSA8BPxb6u-7" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="订餐" vertex="1">
           <mxGeometry height="40" width="80" x="310" y="440" as="geometry" />
         </mxCell>
         <mxCell id="0W8Gn3bTdwgSA8BPxb6u-8" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="订单评价" vertex="1">
           <mxGeometry height="40" width="80" x="270" y="545" as="geometry" />
         </mxCell>
+        <mxCell id="0W8Gn3bTdwgSA8BPxb6u-42" edge="1" parent="1" source="0W8Gn3bTdwgSA8BPxb6u-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" target="0W8Gn3bTdwgSA8BPxb6u-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="700" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0W8Gn3bTdwgSA8BPxb6u-43" connectable="0" parent="0W8Gn3bTdwgSA8BPxb6u-42" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="配送请求" vertex="1">
+          <mxGeometry relative="1" x="-0.6187" as="geometry">
+            <mxPoint x="8" y="-16" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="0W8Gn3bTdwgSA8BPxb6u-10" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="订单处理" vertex="1">
-          <mxGeometry height="40" width="80" x="500" y="450" as="geometry" />
+          <mxGeometry height="40" width="80" x="500" y="440" as="geometry" />
         </mxCell>
         <mxCell id="0W8Gn3bTdwgSA8BPxb6u-11" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="配送" vertex="1">
           <mxGeometry height="40" width="80" x="490" y="585" as="geometry" />
@@ -100,7 +118,7 @@
           <mxGeometry height="60" width="80" x="500" y="360" as="geometry" />
         </mxCell>
         <mxCell id="0W8Gn3bTdwgSA8BPxb6u-15" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;D4&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;订单信息&lt;/span&gt;" vertex="1">
-          <mxGeometry height="50" width="80" x="490" y="510" as="geometry" />
+          <mxGeometry height="50" width="80" x="500" y="510" as="geometry" />
         </mxCell>
         <mxCell id="0W8Gn3bTdwgSA8BPxb6u-16" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;D5 评价信息" vertex="1">
           <mxGeometry height="50" width="80" x="490" y="670" as="geometry" />
@@ -135,12 +153,20 @@
             <mxPoint x="4" y="-16" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0W8Gn3bTdwgSA8BPxb6u-31" edge="1" parent="1" source="0W8Gn3bTdwgSA8BPxb6u-7" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.85;entryDx=0;entryDy=0;entryPerimeter=0;" target="0W8Gn3bTdwgSA8BPxb6u-14">
+        <mxCell id="0W8Gn3bTdwgSA8BPxb6u-31" edge="1" parent="1" source="0W8Gn3bTdwgSA8BPxb6u-7" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.85;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" target="0W8Gn3bTdwgSA8BPxb6u-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0W8Gn3bTdwgSA8BPxb6u-32" connectable="0" parent="0W8Gn3bTdwgSA8BPxb6u-31" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="读取餐品及优惠信息" vertex="1">
+        <mxCell id="0W8Gn3bTdwgSA8BPxb6u-32" connectable="0" parent="0W8Gn3bTdwgSA8BPxb6u-31" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="餐品及优惠信息" vertex="1">
           <mxGeometry relative="1" x="-0.0573" y="1" as="geometry">
-            <mxPoint y="-1" as="offset" />
+            <mxPoint y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0W8Gn3bTdwgSA8BPxb6u-38" edge="1" parent="1" source="0W8Gn3bTdwgSA8BPxb6u-7" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="0W8Gn3bTdwgSA8BPxb6u-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0W8Gn3bTdwgSA8BPxb6u-39" connectable="0" parent="0W8Gn3bTdwgSA8BPxb6u-38" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="存储订餐订单" vertex="1">
+          <mxGeometry relative="1" x="-0.1925" y="2" as="geometry">
+            <mxPoint x="-14" y="13" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
