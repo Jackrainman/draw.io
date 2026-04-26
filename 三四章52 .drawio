@@ -67,30 +67,50 @@
             <mxPoint x="34" y="8" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="L7rLwZs8pjRvWekYAVg7-62" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="P3 车牌识别与入场判断" vertex="1">
+        <mxCell id="L7rLwZs8pjRvWekYAVg7-62" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="P3 车牌识别" vertex="1">
           <mxGeometry height="30" width="140" x="1535" y="460" as="geometry" />
         </mxCell>
         <mxCell id="L7rLwZs8pjRvWekYAVg7-65" parent="1" style="whiteSpace=wrap;html=1;" value="E5 车牌识别设备/子系统" vertex="1">
           <mxGeometry height="30" width="150" x="1220" y="460" as="geometry" />
         </mxCell>
-        <mxCell id="L7rLwZs8pjRvWekYAVg7-73" edge="1" parent="1" source="L7rLwZs8pjRvWekYAVg7-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.999;exitY=0.844;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" target="L7rLwZs8pjRvWekYAVg7-72">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1865" y="580" />
-            </Array>
-            <mxPoint x="1880" y="580" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="L7rLwZs8pjRvWekYAVg7-78" edge="1" parent="1" source="L7rLwZs8pjRvWekYAVg7-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" target="L7rLwZs8pjRvWekYAVg7-72">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="L7rLwZs8pjRvWekYAVg7-74" connectable="0" parent="L7rLwZs8pjRvWekYAVg7-73" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="手机号，车牌号，会员等级，&lt;div&gt;充值信息，支付账号授权信息&lt;/div&gt;" vertex="1">
-          <mxGeometry relative="1" x="0.0252" as="geometry">
-            <mxPoint x="9" y="20" as="offset" />
+        <mxCell id="L7rLwZs8pjRvWekYAVg7-79" connectable="0" parent="L7rLwZs8pjRvWekYAVg7-78" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="手机号，车牌号，会员等级，&lt;div&gt;充值信息，支付账号授权信息&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.1895" as="geometry">
+            <mxPoint x="-13" y="23" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="L7rLwZs8pjRvWekYAVg7-69" parent="1" style="whiteSpace=wrap;html=1;" value="E2 车主" vertex="1">
           <mxGeometry height="30" width="80" x="1565" y="555" as="geometry" />
         </mxCell>
-        <mxCell id="L7rLwZs8pjRvWekYAVg7-72" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="P2 会员注册与充值" vertex="1">
-          <mxGeometry height="30" width="140" x="1760" y="460" as="geometry" />
+        <mxCell id="L7rLwZs8pjRvWekYAVg7-75" edge="1" parent="1" source="L7rLwZs8pjRvWekYAVg7-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" target="L7rLwZs8pjRvWekYAVg7-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L7rLwZs8pjRvWekYAVg7-76" connectable="0" parent="L7rLwZs8pjRvWekYAVg7-75" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="注册结果&lt;div&gt;充值结果&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.7555" y="-2" as="geometry">
+            <mxPoint x="-70" y="-20" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L7rLwZs8pjRvWekYAVg7-81" edge="1" parent="1" source="L7rLwZs8pjRvWekYAVg7-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="L7rLwZs8pjRvWekYAVg7-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L7rLwZs8pjRvWekYAVg7-82" connectable="0" parent="L7rLwZs8pjRvWekYAVg7-81" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="充值请求，支付账号授权请求" vertex="1">
+          <mxGeometry relative="1" x="-0.3014" y="1" as="geometry">
+            <mxPoint x="9" y="45" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L7rLwZs8pjRvWekYAVg7-72" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="P2 会员注册" vertex="1">
+          <mxGeometry height="30" width="140" x="1810" y="555" as="geometry" />
+        </mxCell>
+        <mxCell id="L7rLwZs8pjRvWekYAVg7-80" parent="1" style="whiteSpace=wrap;html=1;" value="E3 支付系统" vertex="1">
+          <mxGeometry height="30" width="80" x="1980" y="670" as="geometry" />
+        </mxCell>
+        <mxCell id="L7rLwZs8pjRvWekYAVg7-83" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="P4 计费" vertex="1">
+          <mxGeometry height="30" width="140" x="2060" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="L7rLwZs8pjRvWekYAVg7-84" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="P5 道闸控制" vertex="1">
+          <mxGeometry height="30" width="140" x="2060" y="310" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
