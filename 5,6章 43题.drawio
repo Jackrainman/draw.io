@@ -150,6 +150,9 @@
         <mxCell id="j3ukRWVVPWjq2-CkXs6D-49" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;无人值守停车系统&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="90" x="690" y="310" as="geometry" />
         </mxCell>
+        <mxCell id="j3ukRWVVPWjq2-CkXs6D-51" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;黄若麟 20242501624&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="100" x="670" y="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
