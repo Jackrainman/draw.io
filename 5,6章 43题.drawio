@@ -1,9 +1,73 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="aRf7LSYXSV1xOkyPzOK4">
-    <mxGraphModel>
+    <mxGraphModel dx="796" dy="565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="j3ukRWVVPWjq2-CkXs6D-11" edge="1" parent="1" source="j3ukRWVVPWjq2-CkXs6D-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="j3ukRWVVPWjq2-CkXs6D-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j3ukRWVVPWjq2-CkXs6D-19" edge="1" parent="1" source="j3ukRWVVPWjq2-CkXs6D-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="j3ukRWVVPWjq2-CkXs6D-12" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j3ukRWVVPWjq2-CkXs6D-1" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=18;" value="" vertex="1">
+          <mxGeometry height="60" width="30" x="205" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="j3ukRWVVPWjq2-CkXs6D-26" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="j3ukRWVVPWjq2-CkXs6D-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="60" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j3ukRWVVPWjq2-CkXs6D-28" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="j3ukRWVVPWjq2-CkXs6D-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="520" y="60" />
+            </Array>
+            <mxPoint x="460" y="60" as="sourcePoint" />
+            <mxPoint x="520" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j3ukRWVVPWjq2-CkXs6D-4" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=18;" value="车主&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="30" x="430" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="j3ukRWVVPWjq2-CkXs6D-5" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=18;" value="支付系统" vertex="1">
+          <mxGeometry height="60" width="30" x="480" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="j3ukRWVVPWjq2-CkXs6D-21" edge="1" parent="1" source="j3ukRWVVPWjq2-CkXs6D-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="j3ukRWVVPWjq2-CkXs6D-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j3ukRWVVPWjq2-CkXs6D-6" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=18;" value="道闸控制系统" vertex="1">
+          <mxGeometry height="60" width="30" x="205" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="j3ukRWVVPWjq2-CkXs6D-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" value="信息维护" vertex="1">
+          <mxGeometry height="50" width="100" x="60" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="j3ukRWVVPWjq2-CkXs6D-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" value="异常告警" vertex="1">
+          <mxGeometry height="50" width="100" x="170" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="j3ukRWVVPWjq2-CkXs6D-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" value="道闸控制" vertex="1">
+          <mxGeometry height="50" width="100" x="170" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="j3ukRWVVPWjq2-CkXs6D-16" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="219.76" y="220" as="sourcePoint" />
+            <mxPoint x="220" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j3ukRWVVPWjq2-CkXs6D-17" connectable="0" parent="j3ukRWVVPWjq2-CkXs6D-16" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="《扩展》" vertex="1">
+          <mxGeometry relative="1" x="-0.1973" as="geometry">
+            <mxPoint x="30" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j3ukRWVVPWjq2-CkXs6D-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 18px; white-space: nowrap;&quot;&gt;管理人员&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="140" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="j3ukRWVVPWjq2-CkXs6D-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" value="入场处理" vertex="1">
+          <mxGeometry height="50" width="100" x="310" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="j3ukRWVVPWjq2-CkXs6D-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" value="离场处理" vertex="1">
+          <mxGeometry height="50" width="100" x="470" y="170" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
