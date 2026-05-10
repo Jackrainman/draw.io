@@ -127,6 +127,12 @@
         <mxCell id="VLcb_bPbjcf8IeFKTobU-41" parent="1" style="align=left;spacingLeft=4;fillColor=#5D7F99;strokeColor=#D0CEE2;fontColor=#1A1A1A;labelBackgroundColor=none;fontSize=20;" value="学号：20242501624&#xa;姓名：黄若麟" vertex="1">
           <mxGeometry height="62" width="200" x="110" y="480" as="geometry" />
         </mxCell>
+        <mxCell id="VLcb_bPbjcf8IeFKTobU-52" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeColor=light-dark(#D0CEE2,#FFFFFF);fontColor=#1A1A1A;fillColor=#5D7F99;" value="" vertex="1">
+          <mxGeometry height="80" width="40" x="226" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="VLcb_bPbjcf8IeFKTobU-54" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeColor=light-dark(#D0CEE2,#FFFFFF);fontColor=#1A1A1A;fillColor=#5D7F99;" value="" vertex="1">
+          <mxGeometry height="80" width="40" x="966" y="280" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
