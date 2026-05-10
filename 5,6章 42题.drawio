@@ -1,73 +1,86 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="aaxTUe-EeYR-0mSf7orI">
-    <mxGraphModel dx="1154" dy="819" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2308" dy="1638" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="SGIdfmpaOB3cyszvcyk7-1" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;labelBackgroundColor=none;" value="教务管理系统" vertex="1">
-          <mxGeometry height="821" width="171" x="165" y="20" as="geometry" />
+        <mxCell id="SGIdfmpaOB3cyszvcyk7-1" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;labelBackgroundColor=none;" value="" vertex="1">
+          <mxGeometry height="821" width="171" x="165" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SGIdfmpaOB3cyszvcyk7-28" edge="1" parent="1" source="SGIdfmpaOB3cyszvcyk7-2" style="rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;curved=0;endArrow=none;endFill=0;" target="SGIdfmpaOB3cyszvcyk7-26">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="110" y="350" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="SGIdfmpaOB3cyszvcyk7-2" parent="1" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;labelBackgroundColor=none;" value="教师" vertex="1">
-          <mxGeometry height="47" width="47" x="44" y="185" as="geometry" />
+          <mxGeometry height="47" width="47" x="44" y="215" as="geometry" />
+        </mxCell>
+        <mxCell id="SGIdfmpaOB3cyszvcyk7-29" edge="1" parent="1" source="SGIdfmpaOB3cyszvcyk7-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;endArrow=none;endFill=0;" target="SGIdfmpaOB3cyszvcyk7-26">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SGIdfmpaOB3cyszvcyk7-3" parent="1" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;labelBackgroundColor=none;" value="学生" vertex="1">
-          <mxGeometry height="47" width="47" x="44" y="407" as="geometry" />
+          <mxGeometry height="47" width="47" x="44" y="437" as="geometry" />
+        </mxCell>
+        <mxCell id="SGIdfmpaOB3cyszvcyk7-30" edge="1" parent="1" source="SGIdfmpaOB3cyszvcyk7-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.066;entryY=0.858;entryDx=0;entryDy=0;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;endArrow=none;endFill=0;entryPerimeter=0;" target="SGIdfmpaOB3cyszvcyk7-26">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SGIdfmpaOB3cyszvcyk7-4" parent="1" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;labelBackgroundColor=none;" value="系统管理员" vertex="1">
-          <mxGeometry height="95" width="95" x="20" y="606" as="geometry" />
+          <mxGeometry height="95" width="95" x="10" y="690" as="geometry" />
         </mxCell>
         <mxCell id="SGIdfmpaOB3cyszvcyk7-5" parent="1" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;labelBackgroundColor=none;" value="录入成绩" vertex="1">
-          <mxGeometry height="39" width="89" x="206" y="55" as="geometry" />
+          <mxGeometry height="39" width="89" x="206" y="85" as="geometry" />
         </mxCell>
         <mxCell id="SGIdfmpaOB3cyszvcyk7-6" parent="1" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;labelBackgroundColor=none;" value="修改成绩" vertex="1">
-          <mxGeometry height="39" width="89" x="206" y="144" as="geometry" />
+          <mxGeometry height="39" width="89" x="206" y="174" as="geometry" />
         </mxCell>
         <mxCell id="SGIdfmpaOB3cyszvcyk7-7" parent="1" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;labelBackgroundColor=none;" value="计算成绩" vertex="1">
-          <mxGeometry height="39" width="89" x="206" y="233" as="geometry" />
+          <mxGeometry height="39" width="89" x="206" y="263" as="geometry" />
         </mxCell>
         <mxCell id="SGIdfmpaOB3cyszvcyk7-8" parent="1" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;labelBackgroundColor=none;" value="打印成绩" vertex="1">
-          <mxGeometry height="39" width="89" x="206" y="322" as="geometry" />
+          <mxGeometry height="39" width="89" x="206" y="352" as="geometry" />
         </mxCell>
         <mxCell id="SGIdfmpaOB3cyszvcyk7-9" parent="1" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;labelBackgroundColor=none;" value="查询成绩" vertex="1">
-          <mxGeometry height="39" width="89" x="206" y="411" as="geometry" />
+          <mxGeometry height="39" width="89" x="206" y="490" as="geometry" />
         </mxCell>
         <mxCell id="SGIdfmpaOB3cyszvcyk7-10" parent="1" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;labelBackgroundColor=none;" value="管理学生信息" vertex="1">
-          <mxGeometry height="39" width="121" x="190" y="500" as="geometry" />
+          <mxGeometry height="39" width="121" x="190" y="600" as="geometry" />
         </mxCell>
         <mxCell id="SGIdfmpaOB3cyszvcyk7-11" parent="1" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;labelBackgroundColor=none;" value="管理教师信息" vertex="1">
-          <mxGeometry height="39" width="121" x="190" y="589" as="geometry" />
+          <mxGeometry height="39" width="121" x="190" y="668" as="geometry" />
         </mxCell>
         <mxCell id="SGIdfmpaOB3cyszvcyk7-12" parent="1" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;labelBackgroundColor=none;" value="管理课程信息" vertex="1">
-          <mxGeometry height="39" width="121" x="190" y="678" as="geometry" />
+          <mxGeometry height="39" width="121" x="190" y="740" as="geometry" />
         </mxCell>
         <mxCell id="SGIdfmpaOB3cyszvcyk7-13" parent="1" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;labelBackgroundColor=none;" value="管理班级信息" vertex="1">
-          <mxGeometry height="39" width="121" x="190" y="767" as="geometry" />
+          <mxGeometry height="39" width="121" x="190" y="800" as="geometry" />
         </mxCell>
         <mxCell id="SGIdfmpaOB3cyszvcyk7-14" edge="1" parent="1" source="SGIdfmpaOB3cyszvcyk7-2" style="curved=1;startArrow=none;endArrow=none;exitX=0.77;exitY=-0.01;entryX=0;entryY=0.5;rounded=0;labelBackgroundColor=none;strokeColor=#788AA3;fontColor=default;" target="SGIdfmpaOB3cyszvcyk7-5" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="140" y="75" />
+              <mxPoint x="140" y="105" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="SGIdfmpaOB3cyszvcyk7-15" edge="1" parent="1" source="SGIdfmpaOB3cyszvcyk7-2" style="curved=1;startArrow=none;endArrow=none;exitX=1;exitY=0.18;entryX=0;entryY=0.5;rounded=0;labelBackgroundColor=none;strokeColor=#788AA3;fontColor=default;" target="SGIdfmpaOB3cyszvcyk7-6" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="140" y="164" />
+              <mxPoint x="140" y="194" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="SGIdfmpaOB3cyszvcyk7-16" edge="1" parent="1" source="SGIdfmpaOB3cyszvcyk7-2" style="curved=1;startArrow=none;endArrow=none;exitX=1;exitY=0.8;entryX=0;entryY=0.5;rounded=0;labelBackgroundColor=none;strokeColor=#788AA3;fontColor=default;" target="SGIdfmpaOB3cyszvcyk7-7" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="140" y="253" />
+              <mxPoint x="140" y="283" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="SGIdfmpaOB3cyszvcyk7-17" edge="1" parent="1" source="SGIdfmpaOB3cyszvcyk7-2" style="curved=1;startArrow=none;endArrow=none;exitX=0.77;exitY=0.99;entryX=0;entryY=0.5;rounded=0;labelBackgroundColor=none;strokeColor=#788AA3;fontColor=default;" target="SGIdfmpaOB3cyszvcyk7-8" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="140" y="342" />
+              <mxPoint x="140" y="372" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -79,28 +92,28 @@
         <mxCell id="SGIdfmpaOB3cyszvcyk7-19" edge="1" parent="1" source="SGIdfmpaOB3cyszvcyk7-4" style="curved=1;startArrow=none;endArrow=none;exitX=0.77;exitY=-0.01;entryX=0;entryY=0.5;rounded=0;labelBackgroundColor=none;strokeColor=#788AA3;fontColor=default;" target="SGIdfmpaOB3cyszvcyk7-10" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="140" y="520" />
+              <mxPoint x="140" y="610" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="SGIdfmpaOB3cyszvcyk7-20" edge="1" parent="1" source="SGIdfmpaOB3cyszvcyk7-4" style="curved=1;startArrow=none;endArrow=none;exitX=1;exitY=0.19;entryX=0;entryY=0.5;rounded=0;labelBackgroundColor=none;strokeColor=#788AA3;fontColor=default;" target="SGIdfmpaOB3cyszvcyk7-11" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="140" y="609" />
+              <mxPoint x="140" y="680" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="SGIdfmpaOB3cyszvcyk7-21" edge="1" parent="1" source="SGIdfmpaOB3cyszvcyk7-4" style="curved=1;startArrow=none;endArrow=none;exitX=1;exitY=0.8;entryX=0;entryY=0.5;rounded=0;labelBackgroundColor=none;strokeColor=#788AA3;fontColor=default;" target="SGIdfmpaOB3cyszvcyk7-12" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="140" y="698" />
+              <mxPoint x="140" y="728" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="SGIdfmpaOB3cyszvcyk7-22" edge="1" parent="1" source="SGIdfmpaOB3cyszvcyk7-4" style="curved=1;startArrow=none;endArrow=none;exitX=0.77;exitY=0.99;entryX=0;entryY=0.5;rounded=0;labelBackgroundColor=none;strokeColor=#788AA3;fontColor=default;" target="SGIdfmpaOB3cyszvcyk7-13" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="140" y="787" />
+              <mxPoint x="140" y="817" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -108,7 +121,19 @@
           <mxGeometry height="30" width="140" x="380" y="250" as="geometry" />
         </mxCell>
         <mxCell id="SGIdfmpaOB3cyszvcyk7-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#46495D;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;教务管理系统&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="130" x="185.5" y="22" as="geometry" />
+          <mxGeometry height="30" width="130" x="185.5" y="52" as="geometry" />
+        </mxCell>
+        <mxCell id="SGIdfmpaOB3cyszvcyk7-26" parent="1" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;labelBackgroundColor=none;" value="登录系统" vertex="1">
+          <mxGeometry height="39" width="89" x="206" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="SGIdfmpaOB3cyszvcyk7-31" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;" value="" vertex="1">
+          <mxGeometry height="100" width="50" x="20" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="SGIdfmpaOB3cyszvcyk7-33" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;" value="" vertex="1">
+          <mxGeometry height="100" width="50" x="32.5" y="321.5" as="geometry" />
+        </mxCell>
+        <mxCell id="SGIdfmpaOB3cyszvcyk7-34" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;" value="" vertex="1">
+          <mxGeometry height="100" width="50" x="32.5" y="790" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
