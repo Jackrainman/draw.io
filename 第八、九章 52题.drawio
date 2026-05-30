@@ -1,9 +1,70 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="KILajtN7sh_GhxCh3lwt">
-    <mxGraphModel>
+    <mxGraphModel dx="2073" dy="1922" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="dD6bhE_qwWn0r7XPoagu-36" edge="1" parent="1" source="dD6bhE_qwWn0r7XPoagu-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" target="dD6bhE_qwWn0r7XPoagu-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dD6bhE_qwWn0r7XPoagu-38" connectable="0" parent="dD6bhE_qwWn0r7XPoagu-36" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="请求/应答" vertex="1">
+          <mxGeometry relative="1" x="-0.2121" as="geometry">
+            <mxPoint x="33" y="17" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dD6bhE_qwWn0r7XPoagu-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" value="" vertex="1">
+          <mxGeometry height="140" width="550" x="-770" y="-1110" as="geometry" />
+        </mxCell>
+        <mxCell id="dD6bhE_qwWn0r7XPoagu-31" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="用户界面层" vertex="1">
+          <mxGeometry height="30" width="90" x="-770" y="-1065" as="geometry" />
+        </mxCell>
+        <mxCell id="dD6bhE_qwWn0r7XPoagu-32" edge="1" parent="1" source="dD6bhE_qwWn0r7XPoagu-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="dD6bhE_qwWn0r7XPoagu-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dD6bhE_qwWn0r7XPoagu-37" edge="1" parent="1" source="dD6bhE_qwWn0r7XPoagu-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" target="dD6bhE_qwWn0r7XPoagu-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dD6bhE_qwWn0r7XPoagu-39" connectable="0" parent="dD6bhE_qwWn0r7XPoagu-37" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="事件通知" vertex="1">
+          <mxGeometry relative="1" x="-0.0606" y="1" as="geometry">
+            <mxPoint x="29" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dD6bhE_qwWn0r7XPoagu-33" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" value="" vertex="1">
+          <mxGeometry height="180" width="550" x="-770" y="-860" as="geometry" />
+        </mxCell>
+        <mxCell id="dD6bhE_qwWn0r7XPoagu-34" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="业务逻辑层" vertex="1">
+          <mxGeometry height="30" width="90" x="-770" y="-805" as="geometry" />
+        </mxCell>
+        <mxCell id="dD6bhE_qwWn0r7XPoagu-42" parent="1" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" value="DataService" vertex="1">
+          <mxGeometry height="50" width="100" x="-359.5" y="-750" as="geometry" />
+        </mxCell>
+        <mxCell id="dD6bhE_qwWn0r7XPoagu-43" parent="1" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;分析和处理老人信息&lt;/span&gt;" vertex="1">
+          <mxGeometry height="50" width="120" x="-690" y="-840" as="geometry" />
+        </mxCell>
+        <mxCell id="dD6bhE_qwWn0r7XPoagu-44" parent="1" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;接收用户命令&lt;/span&gt;" vertex="1">
+          <mxGeometry height="50" width="120" x="-680" y="-1080" as="geometry" />
+        </mxCell>
+        <mxCell id="dD6bhE_qwWn0r7XPoagu-45" parent="1" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;Linphone4Android&lt;/span&gt;" vertex="1">
+          <mxGeometry height="50" width="120" x="-540" y="-1080" as="geometry" />
+        </mxCell>
+        <mxCell id="dD6bhE_qwWn0r7XPoagu-46" parent="1" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;显示老人状况&lt;/span&gt;" vertex="1">
+          <mxGeometry height="50" width="120" x="-390" y="-1080" as="geometry" />
+        </mxCell>
+        <mxCell id="dD6bhE_qwWn0r7XPoagu-48" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;Interface&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;&lt;b&gt;DataService&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="50" width="141" x="-380" y="-838" as="geometry" />
+        </mxCell>
+        <mxCell id="dD6bhE_qwWn0r7XPoagu-49" parent="1" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;OLVTI-SDK&lt;/span&gt;" vertex="1">
+          <mxGeometry height="50" width="120" x="-750" y="-750" as="geometry" />
+        </mxCell>
+        <mxCell id="dD6bhE_qwWn0r7XPoagu-50" parent="1" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;Linphone&lt;/span&gt;" vertex="1">
+          <mxGeometry height="50" width="120" x="-620" y="-750" as="geometry" />
+        </mxCell>
+        <mxCell id="dD6bhE_qwWn0r7XPoagu-51" parent="1" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;控制机器人运行&lt;/span&gt;" vertex="1">
+          <mxGeometry height="50" width="120" x="-555" y="-840" as="geometry" />
+        </mxCell>
+        <mxCell id="dD6bhE_qwWn0r7XPoagu-52" parent="1" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;tuetlebot_follower&lt;/span&gt;" vertex="1">
+          <mxGeometry height="50" width="120" x="-490" y="-750" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
